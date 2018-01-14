@@ -1,0 +1,131 @@
+{
+    "list":[
+        {
+            "id":"8",
+            "image":"https://res.vmallres.com/pimages//product/6901443156689//428_428_1484106183237mp.jpg",
+            "name":"HUAWEI SuperCharge 快速充电器（白色）",
+            "nametwo":"5A快充，智能适配 ，6级能效，8重保护；配Type-C原装数据线；适用HUAWEI Mate 10, Mate 10 pro, P10, P10 Plus, Mate 9、Mate 9 pro、Mate 9保时捷设计等手机。",
+            "price":"109.00"
+        },
+        {
+            "id":"9",
+            "image":"https://res.vmallres.com/pimages//product/6901443174256/group//428_428_1489548818324.jpg",
+            "name":"荣耀xSport 运动蓝牙耳机（魅焰红）",
+            "nametwo":"【直降10元，限时促销】高还原音质；无线设计，磁吸收纳；10天待机，11小时续航；多彩配色，精密工艺。",
+            "price":"299.00"
+        },
+        {
+            "id":"10",
+            "image":"https://res.vmallres.com/pimages//product/6901443209491//428_428_1511839266304mp.jpg",
+            "name":"荣耀车载充电器（supercharge 快充版）",
+            "nametwo":"【限时包邮】支持5V4.5A、9V2A等 SuperCharge快速充电，智能双USB输出口；5重安全保护；适用于荣耀V10、华为Mate10系列、华为P10系列等机型SuperCharge快充",
+            "price":"199.00"
+        },
+        {
+            "id":"11",
+            "image":"https://res.vmallres.com/pimages//product/6901443205035//428_428_1511768087443mp.jpg",
+            "name":"华为高速数据线 USB USB-C转USB-C",
+            "nametwo":"【限时包邮】原装闪充数据线，闪充功能需搭配原装低压闪充充电器使用。",
+            "price":"89.00"
+        }
+        ,
+        {
+            "id":"12",
+            "image":"https://res.vmallres.com/pimages//product/6901443173129//428_428_1513928134412mp.jpg",
+            "name":"荣耀体脂秤（白色）",
+            "nametwo":"【限时包邮】11项身体数据检测，全面身体健康报告；身体年龄检测；体重、体脂秤面显示。",
+            "price":"199.00"
+        }
+        ,
+        {
+            "id":"13",
+            "image":"https://res.vmallres.com/pimages//product/6901443207077//428_428_1512699241768mp.jpg",
+            "name":"华为智能体脂秤",
+            "nametwo":"购机晒单赢HUAWEI Mate 10手机。高精度芯片，更精准的感知，闹钟提醒",
+            "price":"199.00"
+        }
+        ,
+        {
+            "id":"14",
+            "image":"https://res.vmallres.com/pimages//product/6901443105649//428_428_1467185984175mp.jpg",
+            "name":"荣耀引擎耳机2代（皓月银）",
+            "nametwo":"可调音耳机，一副耳机，两种音乐态度；延续1代经典，音质出色，人声自然。",
+            "price":"129.00"
+        }
+
+        ,
+        {
+            "id":"15",
+            "image":"https://shopstatic.vivo.com.cn/vivoshop/commodity/35/4535_1511511335809hd_250x250.png",
+            "name":"OVEVO欧雷特 无线蓝牙耳机Q62",
+            "nametwo":"【新品上市】Q62无线蓝牙耳机，Hi-Fi音质，震撼立体声，智能降噪，还原CD级原音；支持蓝牙4.2版本，通话无卡顿；旋转收纳，舒适佩戴，长达10H超级续航。",
+            "price":"499.00"
+        }
+    ],
+    "charger":[
+        {
+            "id":"8",
+            "image":"https://res.vmallres.com/pimages//product/6901443156689//428_428_1484106183237mp.jpg",
+            "name":"HUAWEI SuperCharge 快速充电器（白色）",
+            "nametwo":"5A快充，智能适配 ，6级能效，8重保护；配Type-C原装数据线；适用HUAWEI Mate 10, Mate 10 pro, P10, P10 Plus, Mate 9、Mate 9 pro、Mate 9保时捷设计等手机。",
+            "price":"109.00"
+        },
+        {
+            "id":"10",
+            "image":"https://res.vmallres.com/pimages//product/6901443209491//428_428_1511839266304mp.jpg",
+            "name":"荣耀车载充电器（supercharge 快充版）",
+            "nametwo":"【限时包邮】支持5V4.5A、9V2A等 SuperCharge快速充电，智能双USB输出口；5重安全保护；适用于荣耀V10、华为Mate10系列、华为P10系列等机型SuperCharge快充",
+            "price":"199.00"
+        },
+        {
+            "id":"11",
+            "image":"https://res.vmallres.com/pimages//product/6901443205035//428_428_1511768087443mp.jpg",
+            "name":"华为高速数据线 USB USB-C转USB-C",
+            "nametwo":"【限时包邮】原装闪充数据线，闪充功能需搭配原装低压闪充充电器使用。",
+            "price":"89.00"
+        }
+    ],
+    "protect":[
+        {
+            "id":"12",
+            "image":"https://res.vmallres.com/pimages//product/6901443173129//428_428_1513928134412mp.jpg",
+            "name":"荣耀体脂秤（白色）",
+            "nametwo":"【限时包邮】11项身体数据检测，全面身体健康报告；身体年龄检测；体重、体脂秤面显示。",
+            "price":"199.00"
+        }
+        ,
+        {
+            "id":"13",
+            "image":"https://res.vmallres.com/pimages//product/6901443207077//428_428_1512699241768mp.jpg",
+            "name":"华为智能体脂秤",
+            "nametwo":"购机晒单赢HUAWEI Mate 10手机。高精度芯片，更精准的感知，闹钟提醒",
+            "price":"199.00"
+        }
+    ],
+    "headset":[
+        {
+            "id":"9",
+            "image":"https://res.vmallres.com/pimages//product/6901443174256/group//428_428_1489548818324.jpg",
+            "name":"荣耀xSport 运动蓝牙耳机（魅焰红）",
+            "nametwo":"【直降10元，限时促销】高还原音质；无线设计，磁吸收纳；10天待机，11小时续航；多彩配色，精密工艺。",
+            "price":"299.00"
+        }
+        ,
+        {
+            "id":"14",
+            "image":"https://res.vmallres.com/pimages//product/6901443105649//428_428_1467185984175mp.jpg",
+            "name":"荣耀引擎耳机2代（皓月银）",
+            "nametwo":"可调音耳机，一副耳机，两种音乐态度；延续1代经典，音质出色，人声自然。",
+            "price":"129.00"
+        }
+
+        ,
+        {
+            "id":"15",
+            "image":"https://shopstatic.vivo.com.cn/vivoshop/commodity/35/4535_1511511335809hd_250x250.png",
+            "name":"OVEVO欧雷特 无线蓝牙耳机Q62",
+            "nametwo":"【新品上市】Q62无线蓝牙耳机，Hi-Fi音质，震撼立体声，智能降噪，还原CD级原音；支持蓝牙4.2版本，通话无卡顿；旋转收纳，舒适佩戴，长达10H超级续航。",
+            "price":"499.00"
+        }
+    ]
+}

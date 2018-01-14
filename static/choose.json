@@ -1,0 +1,103 @@
+{
+    "chooses":[
+        {
+            "id":"1",
+            "ImageOne":"https://res.vmallres.com/pimages//product/6901443169443/428_428_1506589486461mp.jpg",
+            "name":"荣耀V9 全网通高配版",
+            "nametwo":"精致外观/双镜头/5.7英寸2K屏",
+            "Price":"2699.00"
+        },
+        {
+           "id":"2",
+           "ImageOne":"https://res.vmallres.com/pimages//product/6901443175963/800_800_1488870426289mp.jpg",
+           "nametwo":"新一代徕卡双镜头，多彩外观设计，时尚简约。",
+           "name":"HUAWEI P10 Plus",
+           "Price":"3988.00"
+        },
+        {
+           "id":"3",
+           "ImageOne":"https://res.vmallres.com/pimages//product/6901443210459/800_800_1512111831323mp.jpg",
+           "name":"HUAWEI nova 2s",
+           "nametwo":"6英寸全面屏，2000万四镜头，双面玻璃机身。",
+           "Price":"2699.00"
+        },
+        {
+            "id":"4",
+            "ImageOne":"https://res.vmallres.com/pimages//product/6901443171781/800_800_1493110622698mp.jpg",
+            "name":"HUAWEI nova 青春版",
+            "nametwo":"后置双摄|免费镭射镌刻",
+            "Price":"1799.00"
+        }
+        ,
+        {
+            "id":"5",
+            "ImageOne":"https://res.vmallres.com/pimages//product/6901443181216/800_800_1495008740731mp.jpg",
+            "name":"HUAWEI MateBook X",
+            "nametwo":"13英寸轻薄笔记本电脑",
+            "Price":"5988.00"
+        }
+        ,
+        {
+            "id":"6",
+            "ImageOne":"https://res.vmallres.com/pimages//product/6901443179329/group//800_800_1495007607616.jpg",
+            "name":"HUAWEI MateBook E",
+            "nametwo":"12英寸时尚二合一笔记本电脑",
+            "Price":"6888.00"
+        }
+        
+    ],
+
+    "motos":[
+        {
+           "id":"1",
+            "ImageOne":"https://res.vmallres.com/pimages//product/6901443169443/428_428_1506589486461mp.jpg",
+            "name":"荣耀V9 全网通高配版",
+            "nametwo":"精致外观/双镜头/5.7英寸2K屏",
+            "Price":"2699.00"
+        }
+    ],
+
+    "MotoZs":[
+        {
+            "id":"5",
+            "ImageOne":"https://res.vmallres.com/pimages//product/6901443181216/800_800_1495008740731mp.jpg",
+            "name":"HUAWEI MateBook X",
+            "nametwo":"13英寸轻薄笔记本电脑",
+            "Price":"5988.00"
+        },
+        {
+            "id":"6",
+            "ImageOne":"https://res.vmallres.com/pimages//product/6901443179329/group//800_800_1495007607616.jpg",
+            "name":"HUAWEI MateBook E",
+            "nametwo":"12英寸时尚二合一笔记本电脑",
+            "Price":"6888.00"
+        }
+    ],
+
+    
+    "z2s":[
+        {
+           "id":"4",
+            "ImageOne":"https://res.vmallres.com/pimages//product/6901443171781/800_800_1493110622698mp.jpg",
+            "name":"HUAWEI nova 青春版",
+            "nametwo":"后置双摄|免费镭射镌刻",
+            "Price":"1799.00"
+        }
+        ,
+        {
+           "id":"3",
+           "ImageOne":"https://res.vmallres.com/pimages//product/6901443210459/800_800_1512111831323mp.jpg",
+           "name":"HUAWEI nova 2s",
+           "nametwo":"6英寸全面屏，2000万四镜头，双面玻璃机身。",
+           "Price":"2699.00"
+        }
+        ,
+        {
+           "id":"2",
+           "ImageOne":"https://res.vmallres.com/pimages//product/6901443175963/800_800_1488870426289mp.jpg",
+           "nametwo":"新一代徕卡双镜头，多彩外观设计，时尚简约。",
+           "name":"HUAWEI P10 Plus",
+           "Price":"3988.00"
+        }
+    ]
+ }
